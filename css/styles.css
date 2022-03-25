@@ -1,0 +1,49 @@
+
+
+div p {
+	color:  ghostwhite;
+}
+
+img {
+	border:  5px black dotted;
+	border-radius: 75px;
+}
+
+section p{
+	color: pink;
+}
+
+body {
+	background-color: blue;
+	color:  black;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+div {
+	color:  orange;
+	text-align: center;
+}
+
+.module {
+  cursor: url('./images/saber-cursor.png'), auto;	
+}
+
+a {
+	color: crimson;
+}
+
+.this_is_a_class_Attribute {
+
+}
+
+#This_is_an_id_Attribute {
+	/*but dont use this*/
+}
+
+.button.success {
+	/*Apply to combination of these two class names*/
+}
+
+.button, .btn {
+	/*to apply to multiple selectors*/
+}
